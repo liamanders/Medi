@@ -1,0 +1,129 @@
+
+.logo {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 48px;
+    letter-spacing: -0.02em;
+    color: #0A1B32;
+    margin-top: 37px;
+    margin-left: 80px;
+}
+
+.logo-dot {
+    margin-left: -6px;
+    color: #4F56F1;
+}
+
+nav ul {
+    float: none;
+    margin-left: 273px;
+    margin-top: -65px;
+    word-spacing: 38px;
+}
+nav li {
+    
+    list-style: none;
+    display: inline-block;
+    color: #1B0A42;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+    letter-spacing: 0.32px;
+}
+
+.sign {
+    float: right;
+    margin-right: 67px;
+    margin-top: -57px;
+}
+
+.sign-in {
+    background-color: rgba(255, 255, 255, 0);
+    border: none;
+    color: #1B0A42;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+    letter-spacing: 0.32px;
+}
+
+.sign-up {
+    width: 120px;
+    height: 59.651px;
+    flex-shrink: 0;
+    border-color: #4f57f100;
+    border-radius: 6px;
+    background-color: #4F56F1;
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+    letter-spacing: 0.32px;
+}
+
+
+.main-title {
+    max-width: 500px;
+    width: 100%;
+    margin-top: 203px;
+    margin-left: 200px;
+    font-family: 'Ramaraja', serif;
+    font-style: normal;
+    font-weight: normal;
+    color: #1B0A42;
+    font-size: 72px;
+    line-height: 76px;
+    letter-spacing: 0.02em;
+}
+
+.main-info {
+    max-width: 583px;
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 200px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    color: #9A9A9A;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: 0.02em;
+}
+
+.info-button {
+    width: 152px;
+    height: 64px;
+    margin-top: 50px;
+    margin-left: 200px;
+    color: #FFFFFF;
+    background-color: #4F56F1;
+    border-radius: 6px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 32px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    border: none;
+}
+
+img {
+    max-width: 756px;
+    width: 100%;
+    margin-left: 10px;
+    float: right;
+    margin-top: -70px;
+}
+
